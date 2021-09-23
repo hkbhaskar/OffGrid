@@ -229,14 +229,14 @@ html .woocommerce .greennature-widget-title { font-size: 12px; }
 	-moz-box-shadow: 0px 1px 6px rgba(0, 0, 0, 0.1);
 	-webkit-box-shadow: 0px 1px 6px rgba(0, 0, 0, 0.1);
 	box-shadow: 0px 1px 6px rgba(0, 0, 0, 0.1); }
-.greennature-fixed-header .greennature-navigation-wrapper .greennature-main-menu > li > a { font-size: 22px; padding-bottom: 23px; }
+.greennature-fixed-header .greennature-navigation-wrapper .greennature-main-menu > li > a { font-size: 15px; padding-bottom: 23px; }
 .admin-bar .greennature-fixed-header{ top: 32px }
 
 .greennature-navigation-gimmick{ position: absolute; bottom: 0px; height: 3px; }
 .greennature-navigation-wrapper{ margin: 0px 15px; float: right; }
 .greennature-navigation-wrapper .greennature-navigation-container{ position: relative; line-height: 0; }
 .greennature-navigation-wrapper .greennature-main-menu > li{ padding: 0px; }
-.greennature-navigation-wrapper .greennature-main-menu > li > a{ font-size: 22px; padding: 0px 33px 45px 0px; 
+.greennature-navigation-wrapper .greennature-main-menu > li > a{ font-size: 15px; padding: 0px 33px 45px 0px; 
 	margin: 0px; text-transform: uppercase; letter-spacing: 1px; font-weight: bold; }
 .greennature-navigation-wrapper .greennature-main-menu > li:last-child > a,
 .greennature-navigation-wrapper .greennature-main-menu > li:last-child > a.sf-with-ul,
